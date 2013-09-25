@@ -1,0 +1,21 @@
+{
+  "name": "proj-name",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "repository": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+  }
+}
